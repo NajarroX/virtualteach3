@@ -7,7 +7,7 @@ import pyglet
 import os
 
 # OpenAI Api key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # inicializar el text-to-speech engine
 engine = pyttsx3.init()
